@@ -1,0 +1,7 @@
+1. Startup Server: npm init -y
+2. Startup Express Js Mongoose: npm i express mongoose ejs
+3. Nodemon dev dependence: npm i --save-dev nodemon
+4. To run nodemon: change "scripts": ["devStart": "nodemon server.js"]
+5. Id-router mark-up:  npm i marked slugify
+6. Method-Delete:   npm i method-override
+7. Marked: npm i dompurify jsdom
