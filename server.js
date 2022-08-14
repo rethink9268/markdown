@@ -23,4 +23,4 @@ app.get("/", async (req, res) => {
 
 app.use("/articles", articleRouter);
 
-app.listen(5000);
+app.listen("https://serene-queijadas-43c2a3.netlify.app/");
